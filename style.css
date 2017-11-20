@@ -2,3 +2,8 @@ body {
   color: white;
   background-color: black;
 }
+body {
+  width: 80%;
+  text-align: center;
+  font-family: sans-serif;
+}
